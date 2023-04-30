@@ -1,0 +1,27 @@
+body {
+    background-color: blanchedalmond;
+    align-content: center;
+}
+
+h2 {
+    color:dimgray;
+    font-family: 'Courgette', cursive;
+}
+
+ul {
+    font-size: 17px;
+}
+
+ol {
+    font-size: 17px;
+}
+
+.recipee-name {
+    color:rgb(30, 25, 65);
+    font-family: 'Courgette', cursive;
+}
+
+.recipee-image {
+    height: auto;
+    width: 400px;
+}
